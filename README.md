@@ -4,15 +4,15 @@ Linked below is a Dashboard created using IBM Cognos to draw insight into how De
 
 [IBM Cognos Analytics Capstone Project Dashboard](https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FNew%2Bdashboard&action=view&mode=dashboard&subView=model0000018f64adb782_00000000)
 
-**Current Technologies:**
+##**Current Technologies:**
 ![alt text](https://github.com/LiamBatiste/IBM-Capstone-Cognos/blob/main/Cognos%20Dash%20-%20Current%20Technologies.PNG?raw=true)
 
 
-**Future Technologies:**
+##**Future Technologies:**
 ![alt text](https://github.com/LiamBatiste/IBM-Capstone-Cognos/blob/main/Cognos%20Dash%20-%20Future%20Technologies.PNG?raw=true)
 
 
-**Developer Demographics:**
+##**Developer Demographics:**
 ![alt text](https://github.com/LiamBatiste/IBM-Capstone-Cognos/blob/main/Cognos%20Dash%20-%20Developer%20Demographic.PNG?raw=true)
 
 

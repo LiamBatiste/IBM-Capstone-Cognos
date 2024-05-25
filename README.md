@@ -9,4 +9,4 @@ Linked below is a Dashboard created using IBM Cognos to draw insight into how De
 
 [View the PDF version of the Project Presentation](https://github.com/LiamBatiste/IBM-Capstone-Cognos/blob/main/Capstone%20Project%20Presentation.pdf)
 
-![image](https://github.com/LiamBatiste/IBM-Capstone-Cognos/assets/68031898/6416209d-5d9c-4cf3-91c2-00a98147b438)
+

@@ -17,6 +17,7 @@ insights by answer the following:
 possible using statistical and explorative data practices including data normalisation, outlier detection, 
 aggregation and visualisation to help provide impactful and actionable insights into the future skills 
 development of Technologists within different disciplines. 
+
 **The opportunities** - This insight can help guide resource allocation, training initiatives, and hiring 
 strategies to stay competitive in the rapidly evolving IT landscape. Further resulting in organisations 
 being able to identify areas of growth and investment to stay ahead of the curve in a rapidly evolving 

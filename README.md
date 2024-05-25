@@ -13,7 +13,7 @@ Linked below is a Dashboard created using IBM Cognos to draw insight into how De
 
 
 **Developer Demographics:**
-![alt text](?raw=true)
+![alt text](https://github.com/LiamBatiste/IBM-Capstone-Cognos/blob/main/Cognos%20Dash%20-%20Developer%20Demographic.PNG?raw=true)
 
 
 

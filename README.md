@@ -6,9 +6,9 @@ Proposed Solution - By collecting and analysing wrangled datasets from sources i
 Training portals and Surveys obtained through API endpoints and web scraping. This will allow for 
 greater understanding of the most in demand skill sets for programmers this would facilitate impactful 
 insights by answer the following: 
-**• What are the top programming languages in demand?\n
-• What are the top database skills in demand?
-• What are the key demographics of developers?**
+**• What are the top programming languages in demand?**
+**• What are the top database skills in demand?**
+**• What are the key demographics of developers?**
 **Processes** - Through data collecting and wrangling, exploratory data analysis and visualisation was 
 possible using statistical and explorative data practices including data normalisation, outlier detection, 
 aggregation and visualisation to help provide impactful and actionable insights into the future skills 

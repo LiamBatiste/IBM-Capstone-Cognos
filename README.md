@@ -4,4 +4,4 @@ Linked below is a Dashboard created using IBM Cognos to draw insight into how De
 
 [IBM Cognos Analytics Capstone Project](https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FNew%2Bdashboard&action=view&mode=dashboard&subView=model0000018f64adb782_00000000)
 
-![alt text](https://github.com/LiamBatiste/IBM-Capstone-Cognos/blob/main/Cognos Dash - Current Technologies.PNG.jpg?raw=true)
+![alt text](https://github.com/LiamBatiste/IBM-Capstone-Cognos/blob/main/Cognos Dash - Current Technologies.PNG?raw=true)

@@ -7,4 +7,4 @@ Linked below is a Dashboard created using IBM Cognos to draw insight into how De
 **Current technologies:**
 ![alt text](https://github.com/LiamBatiste/IBM-Capstone-Cognos/blob/main/Cognos%20Dash%20-%20Current%20Technologies.PNG?raw=true)
 
-[View the PDF](docs/example.pdf)
+[View the PDF]([docs/example.pdf](https://github.com/LiamBatiste/IBM-Capstone-Cognos/blob/main/Capstone%20Project%20Presentation.pdf))
